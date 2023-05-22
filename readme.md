@@ -1,4 +1,4 @@
-﻿Sure! Here's a description of a typical Todo app implemented with a React.js frontend and an Express.js backend:
+
 
 The Todo app is a simple application that allows users to manage and keep track of their tasks or to-do items. It provides features like adding new tasks, marking tasks as complete, editing existing tasks, and deleting tasks.
 
